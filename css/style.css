@@ -1,0 +1,17 @@
+
+.dash-title{
+    font-size: 80px;
+    color: white;
+}
+body {
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+.bg-image{
+    max-width:100%;
+    max-height:100%;
+    display: block;
+    background-image: url('https://media.istockphoto.com/photos/pepperoni-pizza-on-wooden-table-picture-id1301482898?b=1&k=20&m=1301482898&s=170667a&w=0&h=XLgT9kG_7_n02S-YzOY71EzcGgqBnY-GukEfhjOui64=');
+    height: 100vh;
+    background-size: cover;
+}

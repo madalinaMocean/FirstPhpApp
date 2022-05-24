@@ -1,0 +1,19 @@
+
+body{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+
+}
+.contact-header{
+    margin-bottom: 40px;
+    margin-top:10vh;
+}
+
+.mapouter{
+    margin: 0 auto;
+    margin-top:70px;
+}
+.bi{
+    font-size: 30px;
+}
